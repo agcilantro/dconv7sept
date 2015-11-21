@@ -80,9 +80,15 @@
                 </div>
                 <h2>Sales and Marketing Support</h2>
                 <strong>General</strong><br/>
-                <em>Client name</em><br/>
+                <h3><em>Client List</em></h3><br/>
                 <br/>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                <h4><ul>
+                        
+                    <li>The Legendary Hatfield and McCoy Whiskey</li>
+                    <li>Gas Monkey Tequila</li>
+                    
+                    </ul></h4>
+                
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
