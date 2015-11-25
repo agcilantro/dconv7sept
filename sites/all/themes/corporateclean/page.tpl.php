@@ -82,13 +82,12 @@
                 <strong>General</strong><br/>
                 <h3><em>Client List</em></h3><br/>
                 <br/>
-                <h4><ul>
+                <ul>
                         
                     <li>The Legendary Hatfield and McCoy Whiskey</li>
                     <li>Gas Monkey Tequila</li>
                     
-                    </ul></h4>
-                
+                </ul>               
                 <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
                 <!--EOF:slider-item content-->
                 
